@@ -1,4 +1,4 @@
-# DigitalHippo - A Modern Fullstack E-Commerce Marketplace for Digital Products
+# Shop & Swap - A Modern Fullstack E-Commerce Marketplace for Digital Products
 
 Built with the Next.js 14 App Router, tRPC, TypeScript, Payload & Tailwind
 
@@ -31,10 +31,4 @@ To get started with this project, run
 and copy the .env.example variables into a separate .env file, fill them out & and that's all you need to get started!
 
 
-## Acknowledgements
 
-- [Payload](https://link.joshtriedcoding.com/payload) for making this project possible
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
